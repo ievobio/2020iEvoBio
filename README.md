@@ -1,29 +1,19 @@
 # iEvoBio
 
-This year's event will occur after the meeting on June 26, from 9 am to 5 pm at the via Zoom. The Zoom link will be distributed via email to registrants. Registration will be handled through the [main meeting registration page](https://www.evolutionmeetings.org/).
-
-There will be no fee for this year's meeting, though you are encouraged to [donate](https://opencollective.com/ievobio) to support iEvoBio in the future, especially student travel scholarships.
+This year's event will occur after the meeting on June 24, from 9 am to 5 pm at the
+Huntington Convention Center. Registration will take place via the main meeting registration [website](https://www.evolutionmeetings.org/).
 
 
 ## In Brief
 
 ## The Meeting
 
-We will have two sessions, morning and afternoon. The morning session look broadly at sustainable software development in biology departments. Session agenda and speakers are listed on our [Morning Session Page](https://ievobio.github.io/2021iEvoBio/TentativeAMSchedule.html). We will have a panel on developing large, collaborative software projects.
-The afternoon session will be one inclusive pedagogy and code-to-learn in evolutionary biology. Our Session Two agenda is [here](https://ievobio.github.io/2021iEvoBio/TentativePMSchedule.html).
+We will have four sessions, two in the morning and two in the evening. Scheduling
+is still somewhat in flux. But broadly, we will be having an NSF session about applying for funding as a computational researcher. We will also have a session
+on lessons from successful young PIs at a variety of institution types (research-focused, teaching-focused). What did they do well? What do they wish they had done
+when setting up a computational evolutionary biology lab?
 
-## Schedule 2021
-
-All times GMT.
-
-2 PM GMT: [Welcome, and software panel](https://ievobio.github.io/2021iEvoBio/TentativeAMSchedule.html)
-
-4 PM GMT: Software discussion breakouts
-
-5 PM GMT: Lunch break
-
-6 PM GMT: [Active learning and inclusive teaching discussion](https://ievobio.github.io/2021iEvoBio/TentativePMSchedule.html)
-
-7:30 PM GMT: Coding-to-learn, not learning to code panel discussion
-
-9:00 PM GMT: Code-to-learn breakout discussions  
+Our education session this year will focus on the connection between teaching and
+research. How can we effectively onboard undergraduates into our labs via coursework? But also, how can we do research with our classes? Domain-based education research and pedagogy research will feature prominently in this session.
+Finally, we will have a bird-of-a-feather discussion. Previous years have asked for more time to do structured discussions and networking on the above topics. So, we're
+giving the people what they want.
