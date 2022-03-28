@@ -17,3 +17,20 @@ Our education session this year will focus on the connection between teaching an
 research. How can we effectively onboard undergraduates into our labs via coursework? But also, how can we do research with our classes? Domain-based education research and pedagogy research will feature prominently in this session.
 Finally, we will have a bird-of-a-feather discussion. Previous years have asked for more time to do structured discussions and networking on the above topics. So, we're
 giving the people what they want.
+
+## Speakers
+
+### Education session:
+[Dr. Cissy Ballen](https://www.ballenlab.org/)
+[Dr. Arun Sethuraman](http://arunsethuraman.weebly.com/)
+[Dr. April Wright](https://wright-lab.com/) and [Dr. Orlando Schwery](https://oschwery.github.io/)
+
+## Career development session
+
+[Dr. Rachel Warnock](https://www.gzn.nat.fau.eu/palaeontologie/team/professors/rachel-warnock/)
+[Dr. Mike Rosenberg](https://www.rosenberglab.net/)
+[Dr. Rob Denton](https://dentonlab.org/)
+
+## NSF session
+
+Program officer list to come!
